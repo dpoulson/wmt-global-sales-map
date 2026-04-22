@@ -1,0 +1,42 @@
+# Portuguese translation for We Make Things: Global Sales Map
+msgid ""
+msgstr ""
+"Project-Id-Version: We Make Things: Global Sales Map 1.3.3\n"
+"Language: pt_BR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Global Sales Map requires WooCommerce to be installed and active."
+msgstr "O Global Sales Map requer que o WooCommerce esteja instalado e ativo."
+
+msgid "Global Sales Map Settings"
+msgstr "Configurações do Mapa de Vendas"
+
+msgid "Sales Map Settings"
+msgstr "Configurações do Mapa"
+
+msgid "Global Sales Map"
+msgstr "Mapa de Vendas Globais"
+
+msgid "World Map"
+msgstr "Mapa do Mundo"
+
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+msgid "Heatmap Metric"
+msgstr "Métrica do Mapa de Calor"
+
+msgid "Order Count"
+msgstr "Total de Pedidos"
+
+msgid "Total Revenue"
+msgstr "Receita Total"
+
+msgid "Support via PayPal"
+msgstr "Apoiar via PayPal"
+
+msgid "Total Regions Reached:"
+msgstr "Total de regiões alcançadas:"
+
+msgid "Support this plugin"
+msgstr "Apoiar este plugin"

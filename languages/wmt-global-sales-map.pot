@@ -1,0 +1,90 @@
+# Copyright (C) 2026 We Make Things
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: We Make Things: Global Sales Map 1.3.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wmt-global-sales-map\n"
+"POT-Creation-Date: 2026-04-22 15:59:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wmt-global-sales-map.php:70
+msgid "Global Sales Map requires WooCommerce to be installed and active."
+msgstr ""
+
+#: includes/class-gsm-settings.php:53
+msgid "Global Sales Map Settings"
+msgstr ""
+
+#: includes/class-gsm-settings.php:54
+msgid "Sales Map Settings"
+msgstr ""
+
+#: includes/class-gsm-settings.php:64
+#: includes/class-gsm-settings.php:74
+msgid "Global Sales Map"
+msgstr ""
+
+#: includes/class-gsm-settings.php:65
+msgid "World Map"
+msgstr ""
+
+#: includes/class-gsm-settings.php:75
+msgid "Sales Map"
+msgstr ""
+
+#: includes/class-gsm-settings.php:89
+msgid "Global Sales Map Analytics"
+msgstr ""
+
+#: includes/class-gsm-settings.php:105
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-gsm-settings.php:112
+msgid "Heatmap Metric"
+msgstr ""
+
+#: includes/class-gsm-settings.php:120
+msgid "Heatmap Base Color"
+msgstr ""
+
+#: includes/class-gsm-settings.php:128
+msgid "Support the Project"
+msgstr ""
+
+#: includes/class-gsm-settings.php:152
+msgid "Order Count"
+msgstr ""
+
+#: includes/class-gsm-settings.php:153
+msgid "Total Revenue"
+msgstr ""
+
+#: includes/class-gsm-settings.php:156
+msgid "Choose which metric determines the intensity of the heatmap colors."
+msgstr ""
+
+#: includes/class-gsm-settings.php:166
+msgid "Choose the primary color for your heatmap. The map will automatically generate 4 shades based on this color."
+msgstr ""
+
+#: includes/class-gsm-settings.php:175
+msgid "If you find this plugin useful, please consider supporting its development."
+msgstr ""
+
+#: includes/class-gsm-settings.php:178
+msgid "Support via PayPal"
+msgstr ""
+
+#: includes/class-gsm-assets.php:208
+msgid "Total Regions Reached:"
+msgstr ""
+
+#: includes/class-gsm-assets.php:213
+msgid "Support this plugin"
+msgstr ""
